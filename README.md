@@ -1,5 +1,5 @@
 # Face_Recognition
-By using OpenCV and Colab Platform, face recognition is been done.
+By using OpenCV and Colab Platform, face recognition is been done in Image and Video.
 
 Language: Python
 
